@@ -24,7 +24,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBTC3ZFaWGLDMELDN1t6SUJYMhwjZ5k3WI",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "mega-estate-a0b37.firebaseapp.com",
   projectId: "mega-estate-a0b37",
   storageBucket: "mega-estate-a0b37.appspot.com",
