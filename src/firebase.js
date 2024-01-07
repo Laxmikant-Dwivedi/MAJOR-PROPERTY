@@ -1,22 +1,3 @@
-// // Import the functions you need from the SDKs you need
-// import { initializeApp } from 'firebase/app';
-// // TODO: Add SDKs for Firebase products that you want to use
-// // https://firebase.google.com/docs/web/setup#available-libraries
-
-// // Your web app's Firebase configuration
-// const firebaseConfig = {
-//   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-//   authDomain: 'mern-estate.firebaseapp.com',
-//   projectId: 'mern-estate',
-//   storageBucket: 'mern-estate.appspot.com',
-//   messagingSenderId: '1078482850952',
-//   appId: '1:1078482850952:web:28f19139ab77246602fb3d',
-// };
-
-// // Initialize Firebase
-// export const app = initializeApp(firebaseConfig);
-
-
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 // TODO: Add SDKs for Firebase products that you want to use
@@ -25,11 +6,11 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "mega-estate-a0b37.firebaseapp.com",
-  projectId: "mega-estate-a0b37",
-  storageBucket: "mega-estate-a0b37.appspot.com",
-  messagingSenderId: "1074165172817",
-  appId: "1:1074165172817:web:d0e6a804d243b30a088670"
+  authDomain: "mern-homeizz.firebaseapp.com",
+  projectId: "mern-homeizz",
+  storageBucket: "mern-homeizz.appspot.com",
+  messagingSenderId: "482068183915",
+  appId: "1:482068183915:web:652726c2cde6c0766dea2e"
 };
 
 // Initialize Firebase
